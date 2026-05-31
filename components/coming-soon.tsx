@@ -83,8 +83,7 @@ export const ComingSoon = () => {
         </div>
 
         <p className="mt-12 text-xs text-emerald-100/50">
-          © {new Date().getFullYear()} Hotel Tours AI Ltd. Part of the Tours AI family,
-          alongside Gym Tours AI.
+          © {new Date().getFullYear()} Hotel Tours.
         </p>
       </div>
     </main>
