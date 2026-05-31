@@ -1,4 +1,4 @@
-git checkout -b hoteltours
+git checkout -b hoteltoursnewbranch
 git add .
-git commit -m "updated: advance portal embed v4"
-git push -u origin hoteltours
+git commit -m "updated: "
+git push -u origin hoteltoursnewbranch
